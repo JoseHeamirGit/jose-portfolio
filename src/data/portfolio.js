@@ -17,7 +17,7 @@ export const profile = {
   name: 'Jose Heamir',
   title: 'Full Stack Developer',
   email: 'joseheamir.a@gmail.com',
-  resumePath: '/src/assets/Jose_Heamir_FullStack_Developer_Resume.pdf',
+  resumePath: '/Jose_Heamir_FullStack_Developer_Resume.pdf',
 }
 
 export const navItems = [
